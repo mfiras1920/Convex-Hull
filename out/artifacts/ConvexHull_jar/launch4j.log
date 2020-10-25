@@ -1,0 +1,26 @@
+
+
+Version:	3.12
+CmdLine:	D:\Document Firas\Coolyeah\Semester 4\Stima\Tucil 1\out\artifacts\ConvexHull_jar\ConvexHull.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\Document Firas\Coolyeah\Semester 4\Stima\Tucil 1\out\artifacts\ConvexHull_jar\.
+Java min ver:	1.005.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_241\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_241
+Check launcher:	C:\Program Files\Java\jre1.8.0_241\bin\javaw.exe (OK)
+Match:		1.008.000_241
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\12.0.2
+Check launcher:	C:\Program Files\Java\jdk-12.0.2\bin\javaw.exe (OK)
+Match:		1.012.000_002
+Runtime used:	1.012.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-12.0.2\bin\javaw.exe
+Launcher args:	-jar "D:\Document Firas\Coolyeah\Semester 4\Stima\Tucil 1\out\artifacts\ConvexHull_jar\ConvexHull.exe"
+Args length:	102/32768 chars
+Exit code:	0
